@@ -1,57 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools for Thought</title><link>https://kastanday.github.io/</link><description>Designing tools for better thinking.</description><atom:link href="https://kastanday.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:kastanvday@gmail.com"&gt;Kastan Day&lt;/a&gt; </copyright><lastBuildDate>Tue, 29 Dec 2020 05:48:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tools for Thought (still testing Nikola)</title><link>https://kastanday.github.io/posts/tools-for-thought/</link><dc:creator>Kastan Day</dc:creator><description>&lt;div&gt;&lt;div class="contents alert alert-primary float-md-right topic" id="contents"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools for Thought</title><link>https://kastanday.github.io/</link><description>Designing tools for better thinking.</description><atom:link href="https://kastanday.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:kastanvday@gmail.com"&gt;Kastan Day&lt;/a&gt; </copyright><lastBuildDate>Tue, 29 Dec 2020 21:16:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to my epxerimental blog. See my Main website here.</title><link>https://kastanday.github.io/posts/kastanday-github-io/</link><dc:creator>Kastan Day</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Image of Nikola Tesla Corner" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;I'm looking to communicate in next-generation blog posts. See my work on &lt;a class="reference external" href="https://www.notion.so/kastanday/Designing-Better-Books-d1d6f7dbc3cf4c46a38289e927381d59"&gt;Designing Better Books&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See my main website here &lt;a class="reference external" href="https://kastanday.com"&gt;https://kastanday.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a test of the &lt;a class="reference external" href="https://getnikola.com/getting-started.html"&gt;Nikola website generator&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><guid>https://kastanday.github.io/posts/kastanday-github-io/</guid><pubDate>Tue, 29 Dec 2020 08:00:00 GMT</pubDate></item><item><title>Tools for Thought (still testing Nikola)</title><link>https://kastanday.github.io/posts/tools-for-thought/</link><dc:creator>Kastan Day</dc:creator><description>&lt;div&gt;&lt;div class="contents alert alert-primary float-md-right topic" id="contents"&gt;
 &lt;p class="topic-title"&gt;Contents&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#preable-this-is-a-test-of-the-best-dynamic-blogging-tools" id="id7"&gt;Preable: This is a test of the best dynamic blogging tools.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#chapter-1-tools-for-thought" id="id8"&gt;Chapter 1 Tools for thought&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#preable-this-is-a-test-of-the-best-dynamic-blogging-tools" id="id6"&gt;Preable: This is a test of the best dynamic blogging tools.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#chapter-1-tools-for-thought" id="id7"&gt;Chapter 1 Tools for thought&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#section-1-1-the-software-packages" id="id9"&gt;Section 1.1 The software packages&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#section-1-1-the-software-packages" id="id8"&gt;Section 1.1 The software packages&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#footnotes" id="id10"&gt;Footnotes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#footnotes" id="id9"&gt;Footnotes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#section-1-2-here-ya-go" id="id11"&gt;Section 1.2 here ya go&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#section-1-2-here-ya-go" id="id10"&gt;Section 1.2 here ya go&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#chapter-2-you-need-cognitive-science" id="id12"&gt;Chapter 2 You need cognitive science&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://kastanday.github.io/posts/tools-for-thought/#chapter-2-you-need-cognitive-science" id="id11"&gt;Chapter 2 You need cognitive science&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="preable-this-is-a-test-of-the-best-dynamic-blogging-tools"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id7"&gt;Preable: This is a test of the best dynamic blogging tools.&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I'm trying to get on the &lt;a class="reference external" href="https://distill.pub"&gt;https://distill.pub&lt;/a&gt; level.
-Or the Andy level in TFT: &lt;a class="reference external" href="https://numinous.productions/ttft/"&gt;https://numinous.productions/ttft/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id6"&gt;Preable: This is a test of the best dynamic blogging tools.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I'm trying to get on the &lt;a class="reference external" href="https://distill.pub"&gt;https://distill.pub&lt;/a&gt; level (see sidebar 1).&lt;/p&gt;
+&lt;p&gt;Or the Andy level in TFT: &lt;a class="reference external" href="https://numinous.productions/ttft/"&gt;https://numinous.productions/ttft/&lt;/a&gt; such a great post&lt;/p&gt;
+&lt;img alt="/images/firegif.gif" src="https://kastanday.github.io/images/firegif.gif" style="width: 20px;"&gt;
 &lt;/div&gt;
 &lt;div class="section" id="chapter-1-tools-for-thought"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id8"&gt;Chapter 1 Tools for thought&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id7"&gt;Chapter 1 Tools for thought&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Towards better thinking with &lt;strong&gt;better tools.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="sidebar"&gt;
-&lt;p class="sidebar-title"&gt;You want this cool sidebar!!?? HERE YA GO&lt;/p&gt;
+&lt;p class="sidebar-title"&gt;just a calm little sidebar my guy&lt;/p&gt;
 &lt;p&gt;You will want to do things like "link from one post to another" or "link to an image gallery",
 etc. Sure, you can just figure out the URLs for each thing and use that. Or you can use
 Nikola's special link URLs. Those are done using the syntax &lt;code class="docutils literal"&gt;&lt;span class="pre"&gt;link://kind/name&lt;/span&gt;&lt;/code&gt; and
 a full list of the included ones is &lt;a class="reference external" href="https://kastanday.github.io/pages/path-handlers/"&gt;here&lt;/a&gt; (BTW, I linked
 to that using &lt;code class="docutils literal"&gt;&lt;span class="pre"&gt;link://slug/path-handlers&lt;/span&gt;&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;Note that magic links with spaces won’t work with some input formats (eg.
-reST), so you should use slugs there (eg. &lt;code class="docutils literal"&gt;&lt;span class="pre"&gt;link://tag/some-tag&lt;/span&gt;&lt;/code&gt; instead of
-&lt;code class="docutils literal"&gt;&lt;span class="pre"&gt;link://tag/Some&lt;/span&gt; Tag&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This code formatting leaves a good bit to be desired.
+.. code:: python&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;dl class="simple"&gt;
+&lt;dt&gt;for i in range(10):&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;print('life is fun')&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class="section" id="section-1-1-the-software-packages"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id9"&gt;Section 1.1 The software packages&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id8"&gt;Section 1.1 The software packages&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Personal website here: &lt;a class="reference external" href="https://kastanday.com"&gt;https://kastanday.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="footnote-reference brackets" href="https://kastanday.github.io/posts/tools-for-thought/#id4" id="id1"&gt;1&lt;/a&gt; is a reference to footnote 1, and &lt;a class="footnote-reference brackets" href="https://kastanday.github.io/posts/tools-for-thought/#id5" id="id2"&gt;2&lt;/a&gt; is a reference to
-footnote 2. You could add a third footnote here &lt;a class="footnote-reference brackets" href="https://kastanday.github.io/posts/tools-for-thought/#id6" id="id3"&gt;3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="footnote-reference brackets" href="https://kastanday.github.io/posts/tools-for-thought/#id3" id="id1"&gt;1&lt;/a&gt; is a reference to footnote 1, and &lt;a class="footnote-reference brackets" href="https://kastanday.github.io/posts/tools-for-thought/#id4" id="id2"&gt;2&lt;/a&gt; is a reference to
+footnote 2. You could add a third footnote here[#]_.&lt;/p&gt;
 
-&lt;div id="accordion_ae5299112bc7499489abf94eb3a61c7b" class="accordion"&gt;
+&lt;div id="accordion_1bfacb3e80b54087b16f56745461b906" class="accordion"&gt;
     &lt;div class="card"&gt;
-      &lt;div class="card-header" id="heading_0_ae5299112bc7499489abf94eb3a61c7b"&gt;
+      &lt;div class="card-header" id="heading_0_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;h2 class="mb-0"&gt;
-            &lt;button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_0_ae5299112bc7499489abf94eb3a61c7b" aria-expanded="true" aria-controls="collapse_0_ae5299112bc7499489abf94eb3a61c7b"&gt;
+            &lt;button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_0_1bfacb3e80b54087b16f56745461b906" aria-expanded="true" aria-controls="collapse_0_1bfacb3e80b54087b16f56745461b906"&gt;
           &lt;p&gt;Pretty hype example&lt;/p&gt;
 
           &lt;/button&gt;
         &lt;/h2&gt;
       &lt;/div&gt;
-        &lt;div id="collapse_0_ae5299112bc7499489abf94eb3a61c7b" class="collapse show" aria-labelledby="heading_0_ae5299112bc7499489abf94eb3a61c7b" data-parent="#accordion_ae5299112bc7499489abf94eb3a61c7b"&gt;
+        &lt;div id="collapse_0_1bfacb3e80b54087b16f56745461b906" class="collapse show" aria-labelledby="heading_0_1bfacb3e80b54087b16f56745461b906" data-parent="#accordion_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;div class="card-body"&gt;
           &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan, nulla sit amet aliquam molestie, nisi purus dignissim ante, non scelerisque diam ligula eu ex. Integer tristique felis id mattis imperdiet. Maecenas elementum purus quis vestibulum elementum. Etiam nec eleifend metus, vel convallis nisl. Fusce tempor ante felis, vitae tincidunt nulla pulvinar sed. Vivamus eget ipsum nulla. Vestibulum lectus enim, facilisis vel ipsum in, vulputate sodales ligula. Curabitur lorem erat, ullamcorper sit amet imperdiet vitae, lobortis non neque. Fusce porta tempor nulla. Vivamus pulvinar purus nibh. Vestibulum semper rutrum sapien, eget suscipit lectus semper sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vel fringilla urna, ut vestibulum arcu. Sed bibendum augue risus, quis gravida libero bibendum ac.&lt;/p&gt;
 
@@ -59,15 +73,15 @@ footnote 2. You could add a third footnote here &lt;a class="footnote-reference 
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="card"&gt;
-      &lt;div class="card-header" id="heading_1_ae5299112bc7499489abf94eb3a61c7b"&gt;
+      &lt;div class="card-header" id="heading_1_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;h2 class="mb-0"&gt;
-            &lt;button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1_ae5299112bc7499489abf94eb3a61c7b" aria-expanded="true" aria-controls="collapse_1_ae5299112bc7499489abf94eb3a61c7b"&gt;
+            &lt;button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1_1bfacb3e80b54087b16f56745461b906" aria-expanded="true" aria-controls="collapse_1_1bfacb3e80b54087b16f56745461b906"&gt;
           &lt;p&gt;What if books were more like apps&lt;/p&gt;
 
           &lt;/button&gt;
         &lt;/h2&gt;
       &lt;/div&gt;
-        &lt;div id="collapse_1_ae5299112bc7499489abf94eb3a61c7b" class="collapse" aria-labelledby="heading_1_ae5299112bc7499489abf94eb3a61c7b" data-parent="#accordion_ae5299112bc7499489abf94eb3a61c7b"&gt;
+        &lt;div id="collapse_1_1bfacb3e80b54087b16f56745461b906" class="collapse" aria-labelledby="heading_1_1bfacb3e80b54087b16f56745461b906" data-parent="#accordion_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;div class="card-body"&gt;
           &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan, nulla sit amet aliquam molestie, nisi purus dignissim ante, non scelerisque diam ligula eu ex. Integer tristique felis id mattis imperdiet. Maecenas elementum purus quis vestibulum elementum. Etiam nec eleifend metus, vel convallis nisl. Fusce tempor ante felis, vitae tincidunt nulla pulvinar sed. Vivamus eget ipsum nulla. Vestibulum lectus enim, facilisis vel ipsum in, vulputate sodales ligula. Curabitur lorem erat, ullamcorper sit amet imperdiet vitae, lobortis non neque. Fusce porta tempor nulla. Vivamus pulvinar purus nibh. Vestibulum semper rutrum sapien, eget suscipit lectus semper sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vel fringilla urna, ut vestibulum arcu. Sed bibendum augue risus, quis gravida libero bibendum ac.&lt;/p&gt;
 
@@ -75,15 +89,15 @@ footnote 2. You could add a third footnote here &lt;a class="footnote-reference 
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="card"&gt;
-      &lt;div class="card-header" id="heading_2_ae5299112bc7499489abf94eb3a61c7b"&gt;
+      &lt;div class="card-header" id="heading_2_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;h2 class="mb-0"&gt;
-            &lt;button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2_ae5299112bc7499489abf94eb3a61c7b" aria-expanded="true" aria-controls="collapse_2_ae5299112bc7499489abf94eb3a61c7b"&gt;
+            &lt;button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2_1bfacb3e80b54087b16f56745461b906" aria-expanded="true" aria-controls="collapse_2_1bfacb3e80b54087b16f56745461b906"&gt;
           &lt;p&gt;Algorithms explained better than ever before&lt;/p&gt;
 
           &lt;/button&gt;
         &lt;/h2&gt;
       &lt;/div&gt;
-        &lt;div id="collapse_2_ae5299112bc7499489abf94eb3a61c7b" class="collapse" aria-labelledby="heading_2_ae5299112bc7499489abf94eb3a61c7b" data-parent="#accordion_ae5299112bc7499489abf94eb3a61c7b"&gt;
+        &lt;div id="collapse_2_1bfacb3e80b54087b16f56745461b906" class="collapse" aria-labelledby="heading_2_1bfacb3e80b54087b16f56745461b906" data-parent="#accordion_1bfacb3e80b54087b16f56745461b906"&gt;
         &lt;div class="card-body"&gt;
           &lt;p&gt;Lorem ipsum dolor sit amet,&lt;/p&gt;
 
@@ -96,8 +110,8 @@ footnote 2. You could add a third footnote here &lt;a class="footnote-reference 
 &lt;p class="admonition-title"&gt;Note&lt;/p&gt;
 &lt;p&gt;This is a nice little callout (called a &lt;code class="docutils literal"&gt;.. note::&lt;/code&gt;)&lt;/p&gt;
 &lt;p&gt;More text down here &lt;span class="emoji"&gt;😢&lt;/span&gt;. And even a code block&lt;/p&gt;
-&lt;pre class="code python"&gt;&lt;a name="rest_code_200d4b00b3484d14beb7e0b259e59b73-1"&gt;&lt;/a&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
-&lt;a name="rest_code_200d4b00b3484d14beb7e0b259e59b73-2"&gt;&lt;/a&gt;    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'life is fun'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;pre class="code python"&gt;&lt;a name="rest_code_cee724246a454a4281a8a3d7e24bd6af-1"&gt;&lt;/a&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;a name="rest_code_cee724246a454a4281a8a3d7e24bd6af-2"&gt;&lt;/a&gt;    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'life is fun'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;div class="admonition admonition-a-titled-callout"&gt;
 &lt;p class="admonition-title"&gt;A titled callout&lt;/p&gt;
@@ -108,35 +122,29 @@ This is very handy for titling your callouts.&lt;/p&gt;
 &lt;p class="admonition-title"&gt;Warning&lt;/p&gt;
 &lt;p&gt;A flashy callout.&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="200" height="113" src="https://www.youtube.com/embed/Nck6BZga7TQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;div class="youtube-video align-center"&gt;
-&lt;iframe width="400" height="315" src="https://www.youtube-nocookie.com/embed/eogpIG53Cis?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;External hyperlinks, like &lt;a class="reference external" href="http://www.kastanday.com"&gt;kastanday's website&lt;/a&gt; :)&lt;/p&gt;
 &lt;img alt="/images/illus_001.jpg" class="align-center" src="https://kastanday.github.io/images/illus_001.jpg" style="width: 200px;"&gt;
 &lt;div class="section" id="footnotes"&gt;
-&lt;h4&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id10"&gt;Footnotes&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id9"&gt;Footnotes&lt;/a&gt;&lt;/h4&gt;
 &lt;dl class="footnote brackets"&gt;
-&lt;dt class="label" id="id4"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id1"&gt;1&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
+&lt;dt class="label" id="id3"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id1"&gt;1&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
 &lt;dd&gt;&lt;p&gt;This is footnote 1 You can add any.&lt;/p&gt;
 &lt;/dd&gt;
-&lt;dt class="label" id="id5"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id2"&gt;2&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
+&lt;dt class="label" id="id4"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id2"&gt;2&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
 &lt;dd&gt;&lt;p&gt;This is footnote 2.&lt;/p&gt;
 &lt;/dd&gt;
-&lt;dt class="label" id="id6"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id3"&gt;3&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
+&lt;dt class="label" id="id5"&gt;&lt;span class="brackets"&gt;3&lt;/span&gt;&lt;/dt&gt;
 &lt;dd&gt;&lt;p&gt;Nothing much going on here.&lt;/p&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="section-1-2-here-ya-go"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id11"&gt;Section 1.2 here ya go&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id10"&gt;Section 1.2 here ya go&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="chapter-2-you-need-cognitive-science"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id12"&gt;Chapter 2 You need cognitive science&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>tft</category><guid>https://kastanday.github.io/posts/tools-for-thought/</guid><pubDate>Mon, 28 Dec 2020 17:35:30 GMT</pubDate></item><item><title>Welcome to an alternative blog. See my Main page here.</title><link>https://kastanday.github.io/posts/kastanday-github-io/</link><dc:creator>Kastan Day</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Image of Nikola Tesla Corner" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;I'm looking to communicate in next-generation blog posts.&lt;/p&gt;
-&lt;p&gt;See my main website here &lt;a class="reference external" href="https://kastanday.com"&gt;https://kastanday.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is a test of the Nikola website generator.&lt;/p&gt;&lt;/div&gt;</description><guid>https://kastanday.github.io/posts/kastanday-github-io/</guid><pubDate>Mon, 28 Dec 2020 08:00:00 GMT</pubDate></item></channel></rss>
+&lt;h2&gt;&lt;a class="toc-backref" href="https://kastanday.github.io/posts/tools-for-thought/#id11"&gt;Chapter 2 You need cognitive science&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;asdf&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>tft</category><guid>https://kastanday.github.io/posts/tools-for-thought/</guid><pubDate>Mon, 28 Dec 2020 17:35:30 GMT</pubDate></item></channel></rss>
