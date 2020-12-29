@@ -1,15 +1,21 @@
-.. title: TFT Overview
-.. slug: tft-overview
+.. title: Tools for Thought (still testing Nikola)
+.. slug: tools-for-thought
 .. date: 2020-12-28 09:35:30 UTC-08:00
 .. tags: tft
 .. category: 
 .. link: 
-.. description: This is gonna be a great article
+.. description: A primer on tools for better thinking.
 .. type: text
 
 .. class:: alert alert-primary float-md-right
 
 .. contents::
+
+Preable: This is a test of the best dynamic blogging tools. 
+===============================================================
+I'm trying to get on the https://distill.pub level.
+Or the Andy level in TFT: https://numinous.productions/ttft/
+
 
 Chapter 1 Tools for thought
 ==============================
@@ -29,7 +35,7 @@ Towards better thinking with **better tools.**
 
 Section 1.1 The software packages
 ----------------------------------
-Okay so how do I get code over on the right? Or links? [Personal website](https://kastanday.com)
+Personal website here: https://kastanday.com
 
 [#]_ is a reference to footnote 1, and [#]_ is a reference to
 footnote 2. You could add a third footnote here [#]_.
@@ -59,7 +65,7 @@ footnote 2. You could add a third footnote here [#]_.
             print('life is fun')
 
 
-.. admonition:: A titled callout (penis)
+.. admonition:: A titled callout
     
     This doesn't seem to be working
     This is very handy for titling your callouts.

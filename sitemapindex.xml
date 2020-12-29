@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://kastanday.github.io/authors/kastan-day.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
+  <lastmod>2020-12-29T05:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/authors/roberto-alsina.xml</loc>
@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
+  <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/categories/demo.xml</loc>
@@ -35,22 +35,22 @@
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/categories/tft.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
+  <lastmod>2020-12-29T05:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2020-12-29T05:29:00Z</lastmod>
+  <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-12-29T05:29:00Z</lastmod>
+  <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/rss.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
+  <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
+  <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
 </sitemapindex>
