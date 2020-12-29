@@ -140,9 +140,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/archive.html", "Posts"),
+        # ("/categories/", "Tags"),
+        # ("/rss.xml", "RSS feed"),
     ),
 }
 
@@ -159,7 +159,7 @@ THEME = "bootblog4"
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#56D4C9'  # OLD '#5670d4'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.

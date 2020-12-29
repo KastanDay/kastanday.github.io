@@ -13,15 +13,18 @@
 
 Preable: This is a test of the best dynamic blogging tools. 
 ===============================================================
-I'm trying to get on the https://distill.pub level.
-Or the Andy level in TFT: https://numinous.productions/ttft/
+I'm trying to get on the https://distill.pub level (see sidebar 1).
 
+Or the Andy level in TFT: https://numinous.productions/ttft/ such a great post 
+
+.. image:: /images/firegif.gif
+    :width: 20
 
 Chapter 1 Tools for thought
 ==============================
 Towards better thinking with **better tools.**
 
-.. sidebar:: You want this cool sidebar!!?? HERE YA GO
+.. sidebar:: just a calm little sidebar my guy
 
    You will want to do things like "link from one post to another" or "link to an image gallery",
    etc. Sure, you can just figure out the URLs for each thing and use that. Or you can use
@@ -29,16 +32,18 @@ Towards better thinking with **better tools.**
    a full list of the included ones is `here <link://slug/path-handlers>`__ (BTW, I linked
    to that using ``link://slug/path-handlers``).
 
-   Note that magic links with spaces won’t work with some input formats (eg.
-   reST), so you should use slugs there (eg. ``link://tag/some-tag`` instead of
-   ``link://tag/Some Tag``)
+    This code formatting leaves a good bit to be desired.
+    .. code:: python
+
+        for i in range(10):
+            print('life is fun')
 
 Section 1.1 The software packages
 ----------------------------------
 Personal website here: https://kastanday.com
 
 [#]_ is a reference to footnote 1, and [#]_ is a reference to
-footnote 2. You could add a third footnote here [#]_.
+footnote 2. You could add a third footnote here[#]_.
 
 .. accordion::
 
@@ -76,9 +81,6 @@ footnote 2. You could add a third footnote here [#]_.
 
     {{% media url=https://www.youtube.com/watch?v=Nck6BZga7TQ %}}
 
-    .. youtube:: eogpIG53Cis
-        :width: 400
-        :align: center
 
 
 External hyperlinks, like `kastanday's website <http://www.kastanday.com>`_ :) 
@@ -103,4 +105,4 @@ Section 1.2 here ya go
 Chapter 2 You need cognitive science
 ============================================================
 
-
+asdf
