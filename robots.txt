@@ -1,0 +1,4 @@
+Sitemap: https://kastanday.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kastanday.github.io
