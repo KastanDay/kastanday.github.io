@@ -1,26 +1,19 @@
-.. title: Welcome to Nikola
-.. slug: welcome-to-nikola
-.. date: 2012-03-30 23:00:00 UTC-03:00
-.. tags: nikola, python, demo, blog
-.. author: Roberto Alsina
-.. link: https://getnikola.com/
+.. title: Welcome to an alternative blog. See my Main page here.
+.. slug: kastanday-github-io
+.. tags: 
+.. date: 2020
+.. author: Kastan Day
+.. link: https://kastanday.com/
 .. description:
 .. category: nikola
 
 .. figure:: https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg
    :target: https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1
    :class: thumbnail
-   :alt: Nikola Tesla Corner by nicwest, on Flickr
+   :alt: Image of Nikola Tesla Corner
 
-If you can see this in a web browser, it means you managed to install Nikola,
-and build a site using it. Congratulations!
+I'm looking to communicate in next-generation blog posts.
 
-Next steps:
+See my main website here https://kastanday.com
 
-* :doc:`Read the manual <handbook>`
-* `Visit the Nikola website to learn more <https://getnikola.com>`__
-* `See a demo photo gallery <link://gallery/demo>`__
-* :doc:`See a demo listing <listings-demo>`
-* :doc:`See a demo of a longer text <dr-nikolas-vendetta>`
-
-Send feedback to info@getnikola.com!
+This is a test of the Nikola website generator. 
