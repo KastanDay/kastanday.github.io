@@ -1,2 +1,1 @@
-# kastanday.github.io
-Experimental website
+Nikola demo site (getnikola.com). Trying to design better tools for thought.
