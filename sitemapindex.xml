@@ -6,36 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://kastanday.github.io/authors/kastan-day.xml</loc>
-  <lastmod>2020-12-29T05:37:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://kastanday.github.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://kastanday.github.io/categories/blog.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://kastanday.github.io/categories/cat_nikola.xml</loc>
   <lastmod>2020-12-29T05:45:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kastanday.github.io/categories/demo.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://kastanday.github.io/categories/nikola.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://kastanday.github.io/categories/python.xml</loc>
-  <lastmod>2020-12-29T05:30:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://kastanday.github.io/categories/tft.xml</loc>
-  <lastmod>2020-12-29T05:37:00Z</lastmod>
+  <lastmod>2020-12-29T05:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/galleries/demo/rss.xml</loc>
@@ -47,10 +23,10 @@
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/rss.xml</loc>
-  <lastmod>2020-12-29T05:45:00Z</lastmod>
+  <lastmod>2020-12-29T05:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kastanday.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-29T05:45:00Z</lastmod>
+  <lastmod>2020-12-29T05:52:00Z</lastmod>
  </sitemap>
 </sitemapindex>
